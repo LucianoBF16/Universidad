@@ -1,0 +1,29 @@
+# Archivos de usuario y configuraciones personales
+.bash_history
+.gitconfig
+.lesshst
+.viminfo
+.ntuser.dat*
+ntuser.ini
+
+# Configuración de herramientas
+.dotnet/
+.jdks/
+.m2/
+.redhat/
+.templateengine/
+.vscode/
+
+# Carpetas del sistema de Windows
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+Saved Games/
+Searches/
+Videos/
+
+# Archivos específicos de usuario
+NTUSER.DAT*
